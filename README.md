@@ -2,7 +2,7 @@
 
 **Programadora iniciante**
 
-- 👩🏻‍💻 Tenho conhecimento sobre: **Html, Css, C # e SQL**
+- 👩🏻‍💻 Tenho conhecimento sobre: **HTML, CSS, C # e SQL**
 - 📚 Atualmente estou aprendendo sobre **JAVA.**
 - 🎬 No meu tempo livre eu gosto de assistir **séries e filmes, jogar e ler.**
 - 📫 Me mande um e-mail: **mykaelly.odc@gmail.com**
